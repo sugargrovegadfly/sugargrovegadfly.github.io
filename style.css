@@ -103,6 +103,13 @@ footer {
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+figcaption {
+	text-align: center;
+	font-style: italic;
+	color: #888;
+	margin-bottom: 1em;
+}
+
 .logo {
 	max-width: 150px;
 	height: auto;
