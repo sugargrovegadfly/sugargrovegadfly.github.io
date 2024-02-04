@@ -116,6 +116,14 @@ figcaption {
 	margin: 0 auto;
 }
 
+blockquote {
+	background-color: #f9f9f9;
+	border-left: 10px solid #ccc;
+	margin: 1.5em 10px;
+	padding: 0.5em 10px;
+	color: #555;
+  }
+
 @media (max-width: 768px) {
 	nav ul {
 		flex-direction: column;
